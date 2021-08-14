@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View, ImageBackground } from 'react-native';
 
-const image = { uri: "https://unsplash.com/photos/3b2tADGAWnU"}
+const image = { uri: "img/bg.png"}
 
 export default function App() {
   return (
