@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GabeeRN",
+    "slug": "GabeeRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GabeeRN"
+}
