@@ -1,5 +1,15 @@
 {
   "expo": {
+<<<<<<< HEAD
+    "name": "GabeeRN",
+    "slug": "GabeeRN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "GabeeRN"
+=======
     "name": "GabeeReactNative2",
     "slug": "GabeeReactNative2",
     "version": "1.0.0",
@@ -31,4 +41,5 @@
       "favicon": "./assets/images/favicon.png"
     }
   }
+>>>>>>> f0eeec4543034861bb5923f3eb1b9af93b1546c7
 }
